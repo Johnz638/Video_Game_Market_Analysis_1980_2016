@@ -25,4 +25,4 @@ Exploratory analysis of global video game sales using Python and Plotly.
 - Users rate Adventure and Platform genres significantly higher than critics
 
 - ## View Interactive Dashboard
-👉 [Open Interactive Dashboard](https://tu_usuario.github.io/tu_repo/video_games_market_dashboard.html)
+👉 [Open Interactive Dashboard](https://github.com/Johnz638/Video_Game_Market_Analysis_1980_2016/blob/main/Sales_analysis.html)
