@@ -23,3 +23,6 @@ Exploratory analysis of global video game sales using Python and Plotly.
 - Console wars peak (2005–2008): X360, PS3, Wii competed simultaneously
 - Japan shows disproportionate preference for RPGs (38%) vs Shooters (3.7%)
 - Users rate Adventure and Platform genres significantly higher than critics
+
+- ## View Interactive Dashboard
+👉 [Open Interactive Dashboard](https://tu_usuario.github.io/tu_repo/video_games_market_dashboard.html)
